@@ -1,9 +1,12 @@
-# CSEE_903_GroupProject
+# CSEE_903_GroupProject 
 
 # Project Title: Noise Robust Cough Sound Segmentation Using Audio Features and Machine Learning
 - Project ID: 78427; 
 - Supervisor: Roneel Sharan;
 - Contact: roneel.sharan@essex.ac.uk
+
+**Team Name:**
+- Sono
 
 **Student registration number(s):**
 - Max Garry – Team Leader: 2323118
