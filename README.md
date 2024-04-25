@@ -9,7 +9,7 @@
 - Sono
 
 **Project Documentation**
-- [Google Drive](https://drive.google.com/drive/folders/1vPHf0wGuo_vNYT0-DNQPbkM_VB-gTpfA?usp=drive_link){:target="_blank"}
+- [Google Drive](https://drive.google.com/drive/folders/1vPHf0wGuo_vNYT0-DNQPbkM_VB-gTpfA?usp=drive_link)
 
 **Student registration number(s):**
 - Max Garry – Team Leader: 2323118
