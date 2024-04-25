@@ -1,4 +1,4 @@
-# CSEE_903_GroupProject 
+# CSEE 903 Group Project 
 
 # Project Title: Noise Robust Cough Sound Segmentation Using Audio Features and Machine Learning
 - Project ID: 78427; 
@@ -28,6 +28,9 @@ To efficiently use GitHub for our project, I propose a streamlined strategy:
 2. **Branching Model**: Use the "Feature Branch Workflow":
    - **Main Branch**: Only stable, production-ready code.
    - **Feature Branches**: Individual branches for each feature or task.
+      - Example 1: Data loading
+      - Example 2: Feature Transformation
+      - Example 3: Machine Learning Models
 
 3. **Commit Messages**: Ensure commit messages are clear and descriptive.
 
