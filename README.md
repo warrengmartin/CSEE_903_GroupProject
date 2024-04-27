@@ -66,7 +66,7 @@ Alternatively, the notebook could be loaded directly from GitHub, but the auto-s
 - Click on the **OK** button to save the notebook to your GitHub repository.
 - Colab will push the notebook to the specified path in your GitHub repository.
 
-### More Info
+### 6. More Info
 
-- (Check out this slideshow by Martin Fowler)[https://martinfowler.com/articles/continuousIntegration.html#BuildingAFeatureWithContinuousIntegration]
+- [Check out this slideshow by Martin Fowler](https://martinfowler.com/articles/continuousIntegration.html#BuildingAFeatureWithContinuousIntegration)
 
