@@ -24,7 +24,7 @@
 Cough is a common symptom of respiratory diseases and the sound of cough can be indicative of the respiratory condition. Objective cough sound analysis has the potential to aid the assessment of the respiratory condition. Cough sound segmentation is an important step in objective cough sound analysis. This project focuses on developing methods to segment cough sounds from audio recordings. The students will explore various signal processing techniques, such temporal and spectral analysis, to identify distinctive features of coughs. Through machine learning algorithms, they'll create a classification model capable of distinguishing cough sounds from non-cough sounds. The students will also develop cough sound denoising algorithms for cough sound segmentation in noisy environments. Refer to https://doi.org/10.1016/j.bspc.2023.104580 and https://doi.org/10.1109/EMBC40787.2023.10340687 for more information.
 
 
-# Github Usage Strategy
+# Getting Started: Github Usage Strategy
 ### 1. Login to Google Drive and Open the Jupyter Notebook File for the Project
 
 #### Justification
