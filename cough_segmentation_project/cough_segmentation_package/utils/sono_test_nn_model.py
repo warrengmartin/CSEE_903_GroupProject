@@ -53,7 +53,7 @@ class SonoTestNNModel:
     y_val = result_df['label'].values
     return X_val, y_val
 
-  def predict_nn(self, model, df_frame, percent_proba=0.875, key='stft', debug=False):
+  def predict_nn(self, model, df_frame, percent_proba=0.875, key='stft', metrics=True, debug=False):
     self.debug = debug
     self.key = key
     self.percent_proba = percent_proba
@@ -67,6 +67,7 @@ class SonoTestNNModel:
     y_pred_prob = model.predict(X_test)
     y_pred = (y_pred_prob > self.percent_proba).astype(int)
 
-    self.get_metrics(y_test, y_pred, y_pred_prob)
+    if metrics:
+      self.get_metrics(y_test, y_pred, y_pred_prob)
 
     return SonoMetricsPlot(df_frame, y_pred)

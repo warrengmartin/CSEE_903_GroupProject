@@ -52,7 +52,7 @@ class SonoTestMlModel:
 
     return X_test_scaled, y_test
 
-  def predict_ml(self, model, df_frame, scaler, debug=False):
+  def predict_ml(self, model, df_frame, scaler, metrics=True, debug=False):
     self.debug = debug
     self.scaler = scaler
     df_frame = self.time_freq_features(df_frame)
@@ -61,7 +61,8 @@ class SonoTestMlModel:
     y_pred = model.predict(X_test)
     y_pred_prob = model.predict_proba(X_test)[:, 1]
 
-    self.get_metrics(y_test, y_pred, y_pred_prob)
+    if metrics:
+      self.get_metrics(y_test, y_pred, y_pred_prob)
 
     return SonoMetricsPlot(df_frame, y_pred)
 
