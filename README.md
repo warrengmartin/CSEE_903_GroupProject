@@ -12,8 +12,8 @@
 - [Google Drive](https://drive.google.com/drive/folders/1vPHf0wGuo_vNYT0-DNQPbkM_VB-gTpfA?usp=drive_link)
 
 **Student registration number(s):**
-- Max Garry – Team Leader: 2323118
-- Warren Martin - Secretary: 232569
+- Max Garry: 2323118
+- Warren Martin - Team Leader: 232569
 
 - Breanne Felton: 2321566
 - RANSFORD OWUSU: 2321357
