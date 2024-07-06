@@ -11,14 +11,13 @@
 **Project Documentation**
 - [Google Drive](https://drive.google.com/drive/folders/1vPHf0wGuo_vNYT0-DNQPbkM_VB-gTpfA?usp=drive_link)
 
-**Student registration number(s):**
-- Max Garry: 2323118
-- Warren Martin - Team Leader: 232569
 
-- Breanne Felton: 2321566
-- RANSFORD OWUSU: 2321357
-- Saurav Thakur: 2322997
-- Patrick Ogbuitepu: 2320824
+- Max Garry
+- Warren Martin - Team Leader
+- Breanne Felton
+- Rnsford Owusu
+- Saurav Thakur
+- Patrick Ogbuitepu
 
 **Project Description:**
 Cough is a common symptom of respiratory diseases and the sound of cough can be indicative of the respiratory condition. Objective cough sound analysis has the potential to aid the assessment of the respiratory condition. Cough sound segmentation is an important step in objective cough sound analysis. 
